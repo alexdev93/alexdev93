@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex og</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-<img height="400" width="900" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img height="400" width="800" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyalexog" alt="codebyalexog" /></a> </p>
 
