@@ -6,8 +6,6 @@
 <img style="border-radius: 20px" height="500" width="800" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creative-og&show_icons=true&locale=en&layout=compact" alt="creative-og" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creative-og&show_icons=true&locale=en" alt="creative-og" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creative-og" alt="codebyalexog" /></a> </p>
 <p align="left"> <a href="https://twitter.com/@alex_xooo" target="blank"><img src="https://img.shields.io/twitter/follow/@alex_xooo?logo=twitter&style=for-the-badge" alt="@ale_xoo" /></a> </p>
