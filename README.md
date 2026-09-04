@@ -4,7 +4,7 @@
 
 ### Senior Full Stack Engineer · AI Product Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Building+distributed+payment+microservices;Architecting+AI-driven+SaaS+products;DevOps+%26+cloud-native+infrastructure;Focused+on+Ethiopian+fintech+%26+payments" alt="Typing SVG" />
+*Building distributed payment microservices · Architecting AI-driven SaaS products · DevOps & cloud-native infrastructure*
 
 <br/>
 
